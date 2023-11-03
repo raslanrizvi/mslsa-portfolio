@@ -63,7 +63,7 @@ const projectList = [
   {
     title: "NZ Fashion Clothing E-Commerce Website",
     description:
-      "I designed a clothing e-commerce website with HTML, CSS, JavaScript, PHP and MySQL. Check our Git Repo for more details.",
+      "I designed a clothing E-Commerce website with HTML, CSS, JavaScript, PHP and MySQL. Check our Git Repo for more details.",
     url: "https://github.com/raslanrizvi/nz-fashion-n-clothing-website",
   },
 ];
