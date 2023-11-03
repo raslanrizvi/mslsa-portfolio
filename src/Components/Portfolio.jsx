@@ -54,6 +54,18 @@ const projectList = [
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
+  {
+    title: "Smart Car Park System with Arduino",
+    description:
+      "As our IOT Assignment we designed a smart car park system with Arduino. Check our Git Repo for more details.",
+    url: "https://github.com/raslanrizvi/IOT-Based-Smart-Car-Park-System",
+  },
+  {
+    title: "NZ Fashion Clothing E-Commerce Website",
+    description:
+      "I designed a clothing e-commerce website with HTML, CSS, JavaScript, PHP and MySQL. Check our Git Repo for more details.",
+    url: "https://github.com/raslanrizvi/nz-fashion-n-clothing-website",
+  },
 ];
 
 const Portfolio = () => {
